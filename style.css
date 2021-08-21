@@ -1,0 +1,32 @@
+#nav-bar a {
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:18px;
+    text-decoration:none;
+    font-weight:400px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+#nav-bar{
+ background-color: mediumseagreen;
+ padding: 12px; 
+}
+#nav-bar a:hover{
+    color: greenyellow;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    float: left;
+    width:  400px;
+    height: 400px;
+    object-fit: cover;
+}
